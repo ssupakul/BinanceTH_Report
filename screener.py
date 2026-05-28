@@ -63,7 +63,7 @@ CONFIG = {
     "recovery_quality_mid":    40,   # ≥ 40 = ✅ Moderate Recovery
 
     # --- Volume Filter ---
-    "vol_filter_ratio":       0.5,
+    "vol_filter_ratio":       0.2,
 
     # --- Indicators ---
     "ema_short":               50,
